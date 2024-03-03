@@ -1,1 +1,3 @@
-"Customer churn predictor utilizing Convolutional Neural Networks (CNN) for analyzing customer data and predicting churn behavior".
+
+"Customer Churn Predictor: An Artificial Neural Network (ANN) model trained to predict customer churn based on relevant features.
+
